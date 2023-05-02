@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Accommodation Bookings
  * Plugin URI: https://woocommerce.com/products/woocommerce-accommodation-bookings/
  * Description: An accommodations add-on for the WooCommerce Bookings extension.
- * Version: 1.1.39
+ * Version: 1.1.40
  * Author: WooCommerce
  * Author URI: https://woocommerce.com
  * Text Domain: woocommerce-accommodation-bookings
